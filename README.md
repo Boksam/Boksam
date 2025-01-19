@@ -2,12 +2,8 @@
   <h1>🧑🏻‍💻 About Me</h1>
   <p>Hello. My name is Park Junwoo.</p>
   <p>I'm exploring about Data Engineering & Back-End Engineering.</p>
-  <br>
-  
 </div>
-
 <br>
-
 <div>
   <h1>📚 STACKS</h1>
   <h3>General Purpose Language</h3>
