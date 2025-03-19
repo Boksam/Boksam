@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 About Me
 My name is Junwoo Park, majoring Computer Engineering in Pusan National University.
 
-I'm interested and learning about Data Engineering and Back-End Engineering
+I'm interested in learning about Data Engineering and Back-End Engineering
 
 # 💼 Experiences
 | Period | Company | Position |
